@@ -1,0 +1,10 @@
+librosa
+matplotlib
+seaborn
+numpy
+pandas
+os
+tqdm
+json
+tensorflow
+scikit-learn
