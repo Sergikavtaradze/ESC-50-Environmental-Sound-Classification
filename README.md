@@ -1,10 +1,18 @@
 # Environmental Sound Classification with Deep Learning
 
+
+
 ## Overview
-This project explores the classification of environmental sounds using advanced deep learning techniques. The study utilizes the [ESC-50 dataset](https://github.com/karoldvl/ESC-50) dataset to compare the efficacy of Mel spectrograms and raw audio waveforms in model training.
 
 <img src="esc50.gif" alt="ESC-50 clip preview" title="ESC-50 clip preview" align="right" />
 
+>
+>
+This project explores the classification of environmental sounds using advanced deep learning techniques. The study utilizes the [ESC-50 dataset](https://github.com/karoldvl/ESC-50) dataset to compare the efficacy of Mel spectrograms and raw audio waveforms in model training.
+
+
+>
+>
 ## Key Findings
 - **Data Augmentation Impact**: Data augmentation significantly improves model accuracy and robustness. Techniques like pitch shifting, time stretching, and noise addition were particularly effective.
 - **Model Performance**: Different neural network architectures were compared, with convolutional neural networks (CNNs) optimized for Mel spectrogram inputs showing the best results. The study highlights the role of advanced architectures in achieving higher classification accuracy.
