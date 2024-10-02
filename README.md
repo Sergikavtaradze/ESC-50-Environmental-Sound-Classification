@@ -1,6 +1,6 @@
 # Environmental Sound Classification with Deep Learning
 
-Below, you will find the summary of my project. You can find the full details in my 'Report on Deep Learning for Environmental Sound Classification.pdf'. I achieved a high first class grade (84%), which was in the top 5% percent of a class of 157 students. 
+Below, you will find the summary of my project. You can find the full details in my '*Report on Deep Learning for Environmental Sound Classification.pdf*'. I achieved a high first class grade (84%), which was in the top 5% percent of a class of 157 students. 
 
 
 ## Overview
