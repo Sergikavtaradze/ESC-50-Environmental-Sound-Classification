@@ -20,7 +20,7 @@ This project explores the classification of environmental sounds using advanced 
 - **Challenges Addressed**: The project tackles common issues in sound classification such as class imbalance and feature extraction nuances, offering solutions that enhance classification accuracy.
 
 ## Technologies Used
-- **Python** for all preprocessing and model training.
+- **Python** for all preprocessing (Numpy, Pandas, scikit-learn, os), visualizations (Matplotlib, Seaborn, tqdm) and model training.
 - **Librosa** library for [audio signal processing](https://librosa.org/doc/latest/index.html), and synthetic data generation for data augmentation.
 - **Keras** and **TensorFlow** for building and training deep learning models.
 
